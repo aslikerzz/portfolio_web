@@ -8,9 +8,6 @@
 〔🛠〕: J'aime entreprendre des projets, j'aime les voir comme des épreuves, j'apprends beaucoup en réalisant ces projets ! 
 
 〔📥〕: Je suis ouvert aux propositions de projets / stages !
-.
-.
-.
 
 :flag_gb: :
 
