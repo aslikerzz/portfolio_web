@@ -1,5 +1,4 @@
-# Qui suis-je ?
-# Who am I?
+# Qui suis-je ?  /  Who am I?
 
 🇫🇷 :
 
