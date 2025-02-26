@@ -1,4 +1,6 @@
-# portfolio
+# Qui suis-je ?
+# Who am I?
+
 🇫🇷 :
 
 〔❓〕: Je suis en Licence Bachelor Développeur, passionné de dev, j'aime entreprendre des projets et les partager !
@@ -9,7 +11,8 @@
 
 〔📥〕: Je suis ouvert aux propositions de projets / stages !
 
-:flag_gb: :
+
+🇬🇧 :
 
 〔❓〕: I am a Bachelor in Developer, passionate about dev, I like to undertake projects and share them!
 
